@@ -65,7 +65,7 @@ npm run dev
 ### 3. Accessing the Application
 
 - Frontend: http://localhost:5173
-- Backend API: http://localhost:5002
+- Backend API: http://localhost:7070
 
 ## Default Credentials
 
